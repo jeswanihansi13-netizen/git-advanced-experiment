@@ -1,3 +1,4 @@
 1. Learn Git commands.
 2. Practice branching.
 3. Practice restoring files.
+4. Practice git diff.
